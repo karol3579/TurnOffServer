@@ -1,0 +1,955 @@
+﻿Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi installer...
+Usługa installer została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog installer w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi installer na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła installer.
+Trwa usuwanie usługi installer z systemu...
+Usługa installer została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi installer...
+Usługa installer została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog installer w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi installer na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła installer.
+Trwa usuwanie usługi installer z systemu...
+Usługa installer została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi installer...
+Usługa installer została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog installer w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi installer na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła installer.
+Trwa usuwanie usługi installer z systemu...
+Usługa installer została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi installer...
+Usługa installer została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog installer w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi installer na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła installer.
+Trwa usuwanie usługi installer z systemu...
+Usługa installer została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi installer...
+Usługa installer została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog installer w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi installer na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła installer.
+Trwa usuwanie usługi installer z systemu...
+Usługa installer została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi installer...
+Usługa installer została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog installer w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi installer na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła installer.
+Trwa usuwanie usługi installer z systemu...
+Usługa installer została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi installer...
+Usługa installer została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog installer w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi installer na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła installer.
+Trwa usuwanie usługi installer z systemu...
+Usługa installer została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Trwa instalowanie usługi installer...
+Trwa tworzenie źródła EventLog installer w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła installer.
+Podczas fazy wycofywania instalatora System.Diagnostics.EventLogInstaller wystąpił wyjątek.
+System.Security.SecurityException: Nie znaleziono źródła, ale nie można przeszukać niektórych lub wszystkich dzienników zdarzeń. Niedostępne dzienniki: Security, State.
+Podczas fazy wycofywania instalacji wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a wycofywanie będzie kontynuowane. Jednak po ukończeniu wycofywania komputer może nie powrócić całkowicie do stanu początkowego.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Trwa instalowanie usługi Service1...
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można odnaleźć usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Określona usługa nie istnieje jako usługa zainstalowana.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Trwa instalowanie usługi Service1...
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można odnaleźć usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Określona usługa nie istnieje jako usługa zainstalowana.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi Service1.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi Service1.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Nie można uruchomić określonej usługi, ponieważ jest ona wyłączona lub ponieważ nie są włączone skojarzone z nią urządzenia.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Nie można uruchomić określonej usługi, ponieważ jest ona wyłączona lub ponieważ nie są włączone skojarzone z nią urządzenia.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Nie można uruchomić określonej usługi, ponieważ jest ona wyłączona lub ponieważ nie są włączone skojarzone z nią urządzenia.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Usługa nie odpowiada na sygnał uruchomienia lub sygnał sterujący w oczekiwanym czasie.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi Service1.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu System.ServiceProcess.ServiceInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi Service1 na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi Service1.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi Service1.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi Service1.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Ostrzeżenie: źródło Service1 nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi Service1 z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi Service1.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Odinstalowywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+Usuwanie źródła EventLog Service1.
+Ostrzeżenie: źródło Service1 nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi Service1 z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+   logtoconsole = 

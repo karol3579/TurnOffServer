@@ -1,0 +1,13 @@
+C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe.config
+C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe
+C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.pdb
+C:\Users\Karol\source\repos\Windows Security\Windows Security\obj\Debug\Windows Security.exe
+C:\Users\Karol\source\repos\Windows Security\Windows Security\obj\Debug\Windows Security.pdb
+C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.exe.manifest
+C:\Users\Karol\source\repos\Windows Security\Windows Security\bin\Debug\Windows Security.application
+C:\Users\Karol\source\repos\Windows Security\Windows Security\obj\Debug\Windows Security.exe.manifest
+C:\Users\Karol\source\repos\Windows Security\Windows Security\obj\Debug\Windows Security.application
+C:\Users\Karol\source\repos\Windows Security\Windows Security\obj\Debug\Windows_Security.ProjectInstaller.resources
+C:\Users\Karol\source\repos\Windows Security\Windows Security\obj\Debug\Windows Security.csproj.GenerateResource.cache
+C:\Users\Karol\source\repos\Windows Security\Windows Security\obj\Debug\Windows Security.csproj.CoreCompileInputs.cache
+C:\Users\Karol\source\repos\Windows Security\Windows Security\obj\Debug\Windows Security.csprojAssemblyReference.cache

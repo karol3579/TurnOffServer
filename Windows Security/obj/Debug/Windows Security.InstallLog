@@ -1,0 +1,16 @@
+﻿Instalowanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\obj\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\obj\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\obj\Debug\Windows Security.exe
+Trwa instalowanie usługi installer...
+Trwa tworzenie źródła EventLog installer w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Karol\source\repos\Windows Security\Windows Security\obj\Debug\Windows Security.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Karol\source\repos\Windows Security\Windows Security\obj\Debug\Windows Security.InstallLog
+   assemblypath = C:\Users\Karol\source\repos\Windows Security\Windows Security\obj\Debug\Windows Security.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła installer.
+Podczas fazy wycofywania instalatora System.Diagnostics.EventLogInstaller wystąpił wyjątek.
+System.Security.SecurityException: Nie znaleziono źródła, ale nie można przeszukać niektórych lub wszystkich dzienników zdarzeń. Niedostępne dzienniki: Security, State.
+Podczas fazy wycofywania instalacji wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a wycofywanie będzie kontynuowane. Jednak po ukończeniu wycofywania komputer może nie powrócić całkowicie do stanu początkowego.
